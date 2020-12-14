@@ -1,1 +1,1 @@
-https://kichukegor.github.io/Dynamic-Landing-Page/.
+https://kichukegor.github.io/Dynamic-Landing-Page/
